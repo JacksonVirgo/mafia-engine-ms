@@ -1,7 +1,6 @@
 [package]
-name = "extension"
+name = "browser-worker"
 version = "0.1.0"
 edition = "2021"
 
-[lib]
-path = "empty.rs"
+[dependencies]
